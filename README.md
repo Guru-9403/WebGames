@@ -2,7 +2,8 @@
 Live Demo: https://spaceasteroidshooter.netlify.app/,Old version 
 
 ## spacexsurvior 
-demo link --> https://spacexsurvivor.netlify.app/ updated version,
+demo link --> https://spacexsurvivor.netlify.app/ 
+updated version,
 easy to play for pc and mobile
 
 An action-packed space shooter game built with pure HTML, CSS, and JavaScript.
