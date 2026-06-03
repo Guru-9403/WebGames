@@ -3,7 +3,7 @@ demo link --> https://spaceasteroidshooter.netlify.app/ Old version,
 
 
 
-## sapcexsurvior 
+## spacexsurvior 
 demo link --> https://spacexsurvivor.netlify.app/ updated version,
 
 
