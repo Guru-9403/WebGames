@@ -1,5 +1,6 @@
 ## Space Shooter 1
-Live Demo: https://spaceasteroidshooter.netlify.app/,Old version 
+Live Demo: https://spaceasteroidshooter.netlify.app/
+Old version 
 
 ## spacexsurvior 
 demo link --> https://spacexsurvivor.netlify.app/ 
