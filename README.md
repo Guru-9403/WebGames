@@ -40,4 +40,4 @@ settings Button → game sound and music conrols its like to adjust volume of mu
 ├── lava.png
 └── moving-asteroid.png
 
-## More WebGames coming soon....
+## developed by GURUPRASATH KANAGARAJ 
