@@ -3,7 +3,7 @@ Live Demo: https://spaceasteroidshooter.netlify.app/
 Old version 
 
 ## spacexsurvior 
-demo link --> https://spacexsurvivor.netlify.app/ 
+demo link 2 --> https://spacexsurvivor.netlify.app/ 
 updated version,
 easy to play for pc and mobile
 
